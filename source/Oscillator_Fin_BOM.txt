@@ -1,0 +1,29 @@
+Philips PM66xx Oscillator BOM:
+
+_ R1 : Axial 33Kohm 1/4W (reduce to 27Kohm if output have difficulties to resume from standby)
+_ R2 : 5Kohm vertical 10 turns trimmer (Bourns 3296W or similar)
+_ R4 : Axial 10Kohm 1/4W
+_ R5 : Axial 1Kohm 1/4W
+
+_ C1 : 100nF 50V MLCC
+_ C2 : 4.7uF 25V Tantalum (or MLCC)
+_ C3 : 4.7uF 25V Tantalum (or MLCC)
+_ C4 : 100nF 50V MLCC
+_ C5 : 100nF 50V MLCC
+_ C6 : 100nF 50V MLCC
+_ C7 : 100nF 50V MLCC
+_ C8 : 10nF 50V MLCC
+
+_ D1 : BZW04-5V8 (or equivalent unidirectional 5.8V TVS diode)
+_ D2 : 1N5230 (or equivalent 4.7V 0.5W Zener diode)
+
+_ U1 : LM7805 or uA7805 or KA7805 (TO-220 case)
+_ U2 : 74LS00 or 74HCT00 or 74F00 or 74AHCT00 (NO 74HC00 or 74C00)
+
+_ Y1 : 10Mhz VCXO or TCXO in DIL-14 case
+
+_ F1 : T250mA 5mm THT Fuse
+
+_ J1 : MOLEX 22-17-3102 (10pin 2.54mm female connector)
+
+_ P2 : 3pin 2.54mm male pin-strip
