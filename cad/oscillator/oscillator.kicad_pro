@@ -52,7 +52,12 @@
         }
       },
       "diff_pair_dimensions": [],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "copper_edge_clearance|185499384|84039241|e1aa34d2-0e0d-43b4-88c5-1b5bdce7a979|34cb4238-b6a2-405f-9d67-4f5dad3f81f8",
+        "copper_edge_clearance|185499384|84039241|e1aa34d2-0e0d-43b4-88c5-1b5bdce7a979|4cd9e959-5f68-4b24-b54c-8819287841ff",
+        "lib_footprint_mismatch|172775000|84925000|d3aa1aab-b67c-47f1-9ebe-215749512add|00000000-0000-0000-0000-000000000000",
+        "solder_mask_bridge|160160000|73040000|5571b8f9-2a4a-4302-b0b7-585564505367|e7ca4527-ae30-426a-82bc-a3dfb4558cd6"
+      ],
       "meta": {
         "version": 2
       },
@@ -466,7 +471,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "gerbers/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
