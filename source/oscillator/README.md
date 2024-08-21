@@ -12,5 +12,5 @@ It can be equipped with any kind of industrial integrated oscillators in DIL-14 
 
 A jumper allow to choose 2 operating modes:
 
-1) "ON/STANDBY" mode: oscillator is always running taking supply from intrument's battery charger to maintain temperature and stability, and the output is state is switched on/off by the main power switch on front panel (Recommended default).
+1) "ON/STANDBY" mode: oscillator is always running taking supply from intrument's battery charger to maintain temperature and stability, and the output state is switched on/off by the main power switch on front panel (Recommended default).
 2) "ON/OFF" mode: both oscillator and output are powered from the main power switch (Power saving mode, for portable use in battery supply).
